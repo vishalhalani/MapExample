@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapExample</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_main">Map</string>
+    <string name="rationale_location">We need location permission to get your current location</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid latlong</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="address_found">Address found</string>
+</resources>
