@@ -434,7 +434,7 @@ public class MainActivity extends FragmentActivity implements OnMapReadyCallback
 //                    pickupAndDropViewHandler(true);
 //                }
                 if (etPickup.getText().equals("")) {
-                    isPickUpLocationEnable = true;
+
                     pickupAndDropViewHandler(false);
                     findPlace(RC_PICKUP_LOCATION);
 

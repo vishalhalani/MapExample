@@ -154,7 +154,7 @@ public class MapAnimator {
 
             }
         });
-        foregroundRouteAnimator.setDuration(1600);
+        foregroundRouteAnimator.setDuration(1000);
 //        foregroundRouteAnimator.start();
 
         firstRunAnimSet.playSequentially(foregroundRouteAnimator,
